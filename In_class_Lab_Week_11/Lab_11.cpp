@@ -61,7 +61,7 @@ int main() {
         {1, 0, 5, 0, 4, 0}
     };
 
-    primMST(graph, 1);
+    primMST(graph, 0);
 
     return 0;
 }
